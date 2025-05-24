@@ -31,7 +31,7 @@ export default function HeaderSection({ mainMenu }) {
                             <nav className="navbar navbar-expand-lg">
                                 <a className="navbar-brand" href="/">
                                     <Image
-                                        src="https://cdn.buttercms.com/PBral0NQGmmFzV0uG7Q6"
+                                        src="/images/Monochrome_Black_and_Gray_Logo_for_Agbar-removebg-preview.png"
                                         alt="Logo"
                                         width={180}
                                         height={45}
