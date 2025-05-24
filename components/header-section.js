@@ -33,8 +33,8 @@ export default function HeaderSection({ mainMenu }) {
                                     <Image
                                         src="/images/logo.png"
                                         alt="Logo"
-                                        width={180}
-                                        height={45}
+                                        width={140}
+                                        height={25}
                                         style={{
                                             maxWidth: "100%",
                                             height: "auto"
