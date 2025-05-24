@@ -25,7 +25,7 @@ export default function FooterSection({ mainMenu }) {
                                         }} />
                                 </a>
                             </div>
-                            <p className="desc">This portfolio won't change the world, but it might change the way you see me.</p>
+                            <p className="desc">This portfolio wont change the world. but it might change the way you see me.</p>
                             <ul className="social-links">
                                 <li><a href="#0"><i className="lni lni-facebook"></i></a></li>
                                 <li><a href="http://linkedin.com/in/agusbaharudin"><i className="lni lni-linkedin"></i></a></li>
